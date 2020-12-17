@@ -12,11 +12,22 @@ Directly quoted from the papar's abstract, https://www.ddebt.finance/
 
 ## Unsecured Lendng
 
-## Intial Debt Offering 
+Improvements TBA
+
+## Intial Debt Offering
+
+Improvements TBA
 
 ## Delinquency and Default 
 
+Improvements TBA
+
 ## dToken Economics
 
+Improvements TBA
+
 ## Liquidity 
+
+Improvements TBA
+
 
