@@ -12,22 +12,21 @@ Directly quoted from the papar's abstract, https://www.ddebt.finance/
 
 ## Unsecured Lendng
 
-Improvements TBA
+Integration with Teller Oracle 
 
 ## Intial Debt Offering
 
-Improvements TBA
+Cash flow generating bonds
 
 ## Delinquency and Default 
 
-Improvements TBA
+Dutch auction 
 
 ## dToken Economics
 
-Improvements TBA
+Stability pool bonding
 
 ## Liquidity 
 
-Improvements TBA
-
+Built on top of Uniswap SDK
 
